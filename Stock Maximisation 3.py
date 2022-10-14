@@ -1,0 +1,3 @@
+def stockmax(prices):
+
+    
